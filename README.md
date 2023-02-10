@@ -1,9 +1,6 @@
-# p5.js
+# Galaxy Art
 
-This is the Template Repl for p5.js.
+## Move the Slider to change the tilt of the galaxy arms
 
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
-
-[Check out the official docs here](https://p5js.org/reference/).
-
-
+Built with p5.js and this tutorial [series](https://youtu.be/e_S6YTchKdA)
+![GenerateGalaxySS.png](./GeneratedGalaxySS.png)

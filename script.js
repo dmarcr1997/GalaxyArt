@@ -23,7 +23,7 @@ function draw() {
   noFill();
 
   translate(width/2, height/2);
- 
+
   for(let i = 0; i < numOfStars; i++){
     // ellipse draw code not galaxy
     // const majorAxisLen = majorAxisMin + i*sizeDif;
